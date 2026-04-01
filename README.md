@@ -1,4 +1,4 @@
-# Synthesis of Copper Oxide (CuO) Nanoparticles using Copper Sulphate
+# Synthesis of Copper Oxide (CuO) Nanoparticles 
 
 ## Aim
 To synthesize copper oxide (CuO) nanoparticles using a bottom-up approach with copper sulphate.
