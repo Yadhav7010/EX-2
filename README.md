@@ -26,11 +26,7 @@ To synthesize copper oxide (CuO) nanoparticles using a bottom-up approach.
 ---
 
 ## Formula
-
-\[
-W = N \times e \times l
-\]
-
+w=N*e*l
 Where:
 - **N** = Normality  
 - **e** = Equivalent weight  
